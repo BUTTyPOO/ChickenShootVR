@@ -6,7 +6,7 @@ My spirtual successor of [ChickenShoot](https://store.steampowered.com/app/25934
 Download Build
 --------------
 
-Download the latest Build from Itch.
+Download the latest Build from my [Itch.io page](https://buttypoo.itch.io/chickenshootvr) or the [Releases](https://github.com/BUTTyPOO/ChickenShootVR/releases) tab.
 
 Requirements
 ------------
