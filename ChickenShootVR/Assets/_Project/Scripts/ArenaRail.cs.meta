@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8b87ae75edc8db40901fe48a72dc367
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - start: {instanceID: 0}
+  - end: {instanceID: 0}
+  - chicken: {fileID: 7583712032884515743, guid: eb02c4afd815cc040aef36f4fb34b44f, type: 3}
+  - goodGuy: {fileID: 646125115759713445, guid: 095eb93bbaf85b148972d3e26d3cb89f, type: 3}
+  - goldChicken: {fileID: 7583712032884515743, guid: bd0e2d04331399a4ea5e65ac4ef55814, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
